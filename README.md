@@ -1,4 +1,5 @@
 <h1>Snifalyze: Network Packet Sniffer & Analyzer</h1>
+<h4>Empowering Network Insights Through Real-Time Packet Analysis and Visualization</h4>
 
 ## Overview
 **Snifalyze** is a powerful network packet sniffer and analyzer built using Go (Golang). Designed for developers, network engineers, and security professionals, it provides a comprehensive solution for capturing, analyzing, and visualizing network traffic in real-time. With an intuitive interface and robust features, PacketScope empowers users to gain valuable insights into network activity.
